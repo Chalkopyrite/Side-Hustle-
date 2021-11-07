@@ -1,0 +1,33 @@
+
+!DOCTYPE html>
+<html>
+<head>   
+	<title> Side Hustle Group3</title>   
+<style type="text/css">        
+  button {           
+	border: none;          
+	background: #0076ff;         
+ 	border-radius: 20px;          
+	padding: 5px;           
+	color: #fff;           
+	font-weight: bold;           
+	font-size: 10px;	
+	text-align: center;          
+	text-transform: lowercase;     
+ }  
+ </style>
+</head>
+<body> 	
+<img src:"
+	<h3><strong>Order Summary</strong></h3>	
+<p>you can now listen to millions of songs, </br>
+audiobooks, and podcast on any device</br>
+anywhere you like! </p>  
+<p><b>Annual plan</b></p>
+<p>$59.99/year</p>
+<button>
+ <button> Proceed to Payment </button>
+<button>cancel order</button>
+</button>
+</body>
+</html>
